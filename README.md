@@ -18,6 +18,19 @@
       <li>Hearthstone</li>
       <li>Counter-Strike:Global Offensive(CS: GO)</li>
     </ol>
+    <h2>PUBG</h2>
+<p>With over 100 million players, PUBG has taken the gaming world by storm. Realistic physics, stunning visuals, crisp HD graphics, and a highly competitive battle royale mode have propelled it to the top.</p>
+<h2>Minecraft</h2>
+<p>Minecraft continues to be a multiplayer sandbox game sensation, offering players creative freedom. Whether exploring the world or surviving against threats, it remains a favorite.</p>
+<h2>Apex Legends</h2>
+<p>Apex Legends, a fresh take on battle royale, offers an engaging alternative for those looking beyond traditional titles like PUBG and Fortnite.</p>
+
+
+
+  
+</p>
+
+ 
     
     
   </body>
