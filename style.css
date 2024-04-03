@@ -1,11 +1,55 @@
 body{
   background-color:aliceblue;
 }
+h1{
+  font-family:cursive;
+  font-weight:solid;
+}
 h2{
-  font-family:sans-serif;
+  font-family:cursive;
   font-weight:solid;
 }
 p{
   font-weight:solid;
-  font-family:sans-serif;    
+  font-family:cursive;    
+}
+h3{
+  font-family:cursive;
+  font-weight:solid;
+}
+.PUBG {
+  border: solid 3px;
+  border-color:black;
+  color: rgb(0, 0, 0);
+  font-family: cursive;
+}
+.minecraft {
+  border: solid 3px;
+  border-color:black;
+  color: rgb(0, 0, 0);
+  font-family: cursive;
+}
+.apexlegends{
+  border: solid 3px;
+  border-color:black;
+  color: rgb(0, 0, 0);
+  font-family: cursive;
+}
+.amongus{
+  border: solid 3px;
+  border-color:black;
+  color: rgb(0, 0, 0);
+  font-family: cursive;
+}
+.fortnite{
+  border: solid 3px;
+  border-color:black;
+  color: rgb(0, 0, 0);
+  font-family: cursive;
+}
+.leagueoflegends{
+  border: solid 3px;
+  border-color:black;
+  color: rgb(0, 0, 0);
+  font-family: cursive;
 }
