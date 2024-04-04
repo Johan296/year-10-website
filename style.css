@@ -18,38 +18,83 @@ h3{
   font-weight:solid;
 }
 .PUBG {
-  border: solid 3px;
+  border: solid 5px;
   border-color:black;
   color: rgb(0, 0, 0);
   font-family: cursive;
+  border-radius: 12px;
+  padding: 5px;
 }
 .minecraft {
-  border: solid 3px;
+  border: solid 5px;
   border-color:black;
   color: rgb(0, 0, 0);
   font-family: cursive;
+  border-radius: 12px;
+  padding: 5px;
 }
 .apexlegends{
-  border: solid 3px;
+  border: solid 5px;
   border-color:black;
   color: rgb(0, 0, 0);
   font-family: cursive;
+  border-radius: 12px;
+  padding: 5px;
 }
 .amongus{
-  border: solid 3px;
+  border: solid 5px;
   border-color:black;
   color: rgb(0, 0, 0);
   font-family: cursive;
+  border-radius: 12px;
+  padding: 5px;
 }
 .fortnite{
-  border: solid 3px;
+  border: solid 5px;
   border-color:black;
   color: rgb(0, 0, 0);
   font-family: cursive;
+  border-radius: 12px;
+  padding: 5px;
 }
 .leagueoflegends{
-  border: solid 3px;
+  border: solid 5px;
   border-color:black;
   color: rgb(0, 0, 0);
   font-family: cursive;
+  border-radius: 12px;
+  padding: 5px;
 }
+.callofdutywarzone{
+  border: solid 5px;
+  border-color:black;
+  color: rgb(0, 0, 0);
+  font-family: cursive;
+  border-radius: 12px;
+  padding: 5px;
+}
+.valorant{
+  border: solid 5px;
+  border-color:black;
+  color: rgb(0, 0, 0);
+  font-family: cursive;
+  border-radius: 12px;
+  padding: 5px;
+}
+.hearthstone{
+  border: solid 5px;
+  border-color:black;
+  color: rgb(0, 0, 0);
+  font-family: cursive;
+  border-radius: 12px;
+  padding: 5px;
+}
+.counterstrike{
+  border: solid 5px;
+  border-color:black;
+  color: rgb(0, 0, 0);
+  font-family: cursive;
+  border-radius: 12px;
+  padding: 5px;
+}
+  
