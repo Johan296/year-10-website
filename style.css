@@ -1,18 +1,18 @@
 body{
-  background-color:rgb(249, 250, 252);
+  background-color:rgb(191, 195, 204);
 }
 h1{
   font-family:calibri;
   font-weight:solid;
 }
 h2{
-  font-family:calibri;
+  font-family:sans-serif;
 }
 p{
   font-family:calibri;  
 }
 h3{
-  font-family:calibri;
+  font-family:sans-serif;
   font-weight:solid;
 }
 img {
