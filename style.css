@@ -1,20 +1,17 @@
 body{
-  background-color:rgb(191, 195, 204);
+  background-color:rgb(255, 255, 255);
 }
 h1{
-  font-family:calibri;
+  font-family:sans-serif;
   font-weight:solid;
 }
 h2{
   font-family:sans-serif;
 }
 p{
-  font-family:calibri;  
+  font-family:sans-serif; 
 }
-h3{
-  font-family:sans-serif;
-  font-weight:solid;
-}
+
 img {
   border-color: rgb(0, 0, 0);
   border-width: 4px;
@@ -25,7 +22,7 @@ img {
   border: solid 5px;
   border-color:black;
   color: rgb(0, 0, 0);
-  font-family:calibri;
+  font-family:sans-serif;
   border-radius: 12px;
   padding: 5px;
 }
@@ -33,7 +30,7 @@ img {
   border: solid 5px;
   border-color:black;
   color: rgb(0, 0, 0);
-  font-family:calibri;
+  font-family:sans-serif;
   border-radius: 12px;
   padding: 5px;
 }
@@ -41,7 +38,7 @@ img {
   border: solid 5px;
   border-color:black;
   color: rgb(0, 0, 0);
-  font-family:calibri;
+  font-family:sans-serif;
   border-radius: 12px;
   padding: 5px;
 }
@@ -49,7 +46,7 @@ img {
   border: solid 5px;
   border-color:black;
   color: rgb(0, 0, 0);
-  font-family:calibri;
+  font-family:sans-serif;
   border-radius: 12px;
   padding: 5px;
 }
@@ -57,7 +54,7 @@ img {
   border: solid 5px;
   border-color:black;
   color: rgb(0, 0, 0);
-  font-family:calibri;
+  font-family:sans-serif;
   border-radius: 12px;
   padding: 5px;
 }
@@ -65,7 +62,7 @@ img {
   border: solid 5px;
   border-color:black;
   color: rgb(0, 0, 0);
-  font-family:calibri;
+  font-family:sans-serif;
   border-radius: 12px;
   padding: 5px;
 }
@@ -73,7 +70,7 @@ img {
   border: solid 5px;
   border-color:black;
   color: rgb(0, 0, 0);
-  font-family:calibri;
+  font-family:sans-serif;
   border-radius: 12px;
   padding: 5px;
 }
@@ -81,7 +78,7 @@ img {
   border: solid 5px;
   border-color:black;
   color: rgb(0, 0, 0);
-  font-family:calibri;
+  font-family:sans-serif;
   border-radius: 12px;
   padding: 5px;
 }
@@ -89,7 +86,7 @@ img {
   border: solid 5px;
   border-color:black;
   color: rgb(0, 0, 0);
-  font-family:calibri;
+  font-family:sans-serif;
   border-radius: 12px;
   padding: 5px;
 }
@@ -97,7 +94,7 @@ img {
   border: solid 5px;
   border-color:black;
   color: rgb(0, 0, 0);
-  font-family:calibri;
+  font-family:sans-serif;
   border-radius: 12px;
   padding: 5px;
 }
